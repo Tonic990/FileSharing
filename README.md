@@ -1,6 +1,6 @@
 # Prime-sharing-Bot
 
-**Jika ingin deploy bot file sharing silahkan hubungi admin di grup support kami [Support](https://www.telegram.dog/PrimeSupportGroup)**
+**Mulai sekarang repo file sharing kami private, Jika ingin deploy bot file sharing silahkan hubungi admin di grup support kami [Support](https://www.telegram.dog/PrimeSupportGroup)**
 
 ##
 
